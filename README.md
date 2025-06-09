@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Yago Gabriel Nigro Caserta
 
 Soy **Desarrollador Web Full Stack** con experiencia construyendo aplicaciones eficientes, escalables y modernas. Actualmente estoy cursando la **Ingeniería en Sistemas de Información en la UTN Buenos Aires** y además completé una **Diplomatura en Desarrollo Web Full Stack**.
 

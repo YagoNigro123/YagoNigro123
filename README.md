@@ -4,6 +4,7 @@ Soy **Desarrollador Web Full Stack** con experiencia construyendo aplicaciones e
 
 Me apasiona resolver problemas con código limpio, mejorar constantemente mis habilidades y trabajar en equipo para crear soluciones que generen valor real.
 
+Cuenta institucional: YagoGNC 
 ---
 
 ## 🚀 Tecnologías y herramientas que uso
@@ -38,7 +39,7 @@ Portfolio desarrollado como proyecto final de la diplomatura Full Stack. Permite
 
 ## 📖 En formación
 
-- 🎓 Ingeniería en Sistemas de Información – UTN.BA  
+- 🎓 Ingeniería en Sistemas de Información – UTN.BA
 - 💻 Diplomatura Full Stack Developer  
 - 📚 Aprendiendo Go (Golang) y arquitectura de aplicaciones web con Gin
 

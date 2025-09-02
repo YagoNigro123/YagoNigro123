@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Yago  
 
-<!--
-**YagoNigro123/YagoNigro123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas en la UTN  
+💻 Desarrollador web full-stack | React - Node.js - Go - Gin  
+📚 Apasionado por aprender nuevas tecnologías y mejorar mis habilidades  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Go (Gin framework)  
+- **Bases de datos:** MySQL, MongoDB  
+- **Otros:** Git, Linux  
+
+---
+
+## 📈 Actualmente
+- 🌱 Mejorando mis habilidades en Go y redes  
+- 🛠️ Construyendo proyectos propios como un e-commerce y un portfolio  
+
+---
+
+## 📫 Contacto
+- 💼 [LinkedIn](https://www.linkedin.com/in/TU_USUARIO)  
+- 📧 yagonigro@gmail.com  
+
+---
+✨ _“El aprendizaje constante es la base del crecimiento como desarrollador.”_
